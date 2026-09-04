@@ -1,4 +1,5 @@
 
+<<<<<<< HEAD
 # SG4 - Understanding Classes and Objects
 **Name:** Bashaier V. Calipes
 **Section:** Platinum
@@ -33,3 +34,5 @@ I chose Recipe because cooking and baking are my primary hobbies. Designing a cl
 recipeName is the most important property because it acts as the primary identifier for the object, allowing users and the computer system to distinguish one recipe from another.
 ### Which method is the most useful? Why?
 adjustServings(newServings: int) is the most useful method because bakers and cooks frequently need to scale recipe quantities up or down depending on how many people they are feeding.
+=======
+>>>>>>> c83f45df08ce304a7d13d6cdc2e25e016a5227c2
