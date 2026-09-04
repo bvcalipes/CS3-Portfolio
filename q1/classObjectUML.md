@@ -24,7 +24,7 @@ This class represents a specific baking or cooking recipe in a digital cookbook 
 | markAsFavorite() | Flags the recipe as a favorite item for quick filtering in the cookbook app. |
 
 ## Class Diagram
-
+![Class Diagram](b8a7e9d4-756a-41ed-8fc7-28e04385678e.jpg)
 ## Design Explanation
 ### Why did you choose this class?
 I chose Recipe because cooking and baking are my primary hobbies. Designing a class for recipes demonstrates how everyday cooking concepts translate into organized software structures for kitchen and recipe management apps.
