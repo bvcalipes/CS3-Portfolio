@@ -20,3 +20,4 @@
 * [Chinese Zodiac Signs Exercise](./q1/zodiacPlatinumCALIPES.md)
 * [Object-Oriented Programming](./q1/ila_oop.md)
 * [OOPAct](./q1/classObjectUML.md)
+* [OOPAct II](./q1/classAttributesMethods.md)
