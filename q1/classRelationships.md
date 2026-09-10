@@ -9,11 +9,11 @@ Class: CriminalCases
 Description: The CriminalCase class represents an individual criminal court case within a legal management system. It manages essential case information and controls operational workflows based on whether the case is active or closed.
 
 ## New Related Class
-Class:
-Description:
+Class: DefendantVerdict
+Description: DefendantVerdict class shows the verdict of the defendant of the CriminalCase and a short summary of what happened during the case, which includes the facts of the case, the defendant, the defendants accused crime.
 
 ## Association
-Relationship:
+Relationship: CriminalCases 
 Explanation:
 
 ## Multiplicity
