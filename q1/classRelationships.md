@@ -11,18 +11,22 @@
 
 ## Existing Class
 Class: Recipe
+
 Description: This class represents a specific baking or cooking recipe in a digital cookbook or kitchen inventory application. It manages core recipe properties, portion scaling, and preparation specifications.
 
 ## New Related Class
 Class:
+
 Description:
 
 ## Association
 Relationship:
+
 Explanation:
 
 ## Multiplicity
 Multiplicity:
+
 Explanation:
 
 ## UML Class Relationship Diagram
