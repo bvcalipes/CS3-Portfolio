@@ -16,19 +16,19 @@ Class: Recipe
 Description: This class represents a specific baking or cooking recipe in a digital cookbook or kitchen inventory application. It manages core recipe properties, portion scaling, and preparation specifications.
 
 ## New Related Class
-Class:
+Class: Ingredients
 
-Description:
+Description: Ingredients is a class that contains ingredient name, amount of ingredient, and price of ingredient. It can color(), flavor(), and odorize().
 
 ## Association
-Relationship:
+Relationship: Recipe contains ingredient.
 
-Explanation:
+Explanation: The Recipe can use Ingredients to add more details about a certain recipe.
 
 ## Multiplicity
-Multiplicity:
+Multiplicity: One-to-Many
 
-Explanation:
+Explanation: Each recipe contains a lot of ingredients. Therefore, the multiplicity of this relationship is One-to-Many.
 
 ## UML Class Relationship Diagram
 ![Class Relationship Diagram](images/classRelationshipDiagram.png)
