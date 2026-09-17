@@ -1,5 +1,6 @@
 # Class Attributes and Methods
 **Name:** Bashaier Calipes
+
 **Section:** Platinum
 ## Previous Design
 Link to my previous activity:
