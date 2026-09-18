@@ -36,10 +36,11 @@
 ![View Python Source](classRelationships.py)
 
 ## Test Run
-![Relationship Test Run](images/relationshipTestRun.png)
-
+![Relationship Test Run](images/relationshipTestRun1.png)
+![Relationship Test Run](images/relationshipTestRun2.png)
+  
 ## Object Relationship Diagram
-![Object Relationship Diagram](images/objectRelationshipDiagram.png)
+![Object Relationship Diagram](images/objectRelationshipDiagram.jpg)
 
 ## Analysis
 ### What is the association between your two classes?
