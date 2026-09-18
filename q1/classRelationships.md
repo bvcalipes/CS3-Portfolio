@@ -33,7 +33,7 @@
 ## UML Class Relationship Diagram
 ![Class Relationship Diagram](images/classRelationshipDiagram.png)
 ## Python Implementation
-[View Python Source](classRelationships.py)
+![View Python Source](classRelationships.py)
 
 ## Test Run
 ![Relationship Test Run](images/relationshipTestRun.png)
