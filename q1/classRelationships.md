@@ -31,7 +31,7 @@
 **Explanation:** Each recipe contains a lot of ingredients. Therefore, the multiplicity of this relationship is One-to-Many.
 
 ## UML Class Relationship Diagram
-![Class Relationship Diagram](./q1/images/classRelationshipDiagram.png)
+![Class Relationship Diagram](images/classRelationshipDiagram.png)
 ## Python Implementation
 [View Python Source](classRelationships.py)
 
