@@ -19,17 +19,17 @@ Added visibility modifiers to properties and added an internal `__is_favorite` p
 | `__is_favorite` | boolean | Private | Safeguards internal application user state so it can only be flagged through explicit actions. |
 
 ## Updated UML Class Diagram
-![Class Diagram](classUML.png)
+![Class Diagram](images/classUML.png)
 
 ## Python Implementation
 [View Python Source](classImplementation.py)
 
 ## Test Run 
-![Test Run](classTestRun1.png)
-![Test Run](classTestRun2.png)
+![Test Run](images/classTestRun1.png)
+![Test Run](images/classTestRun2.png)
 
 ## Object Diagram
-![Object Diagram](objectDiagram.png)
+![Object Diagram](images/objectDiagram.png)
 
 ## Analysis
 
