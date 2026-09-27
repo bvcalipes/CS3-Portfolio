@@ -3,8 +3,8 @@
 
 **Section:** Platinum
 ## Previous Activities
-* [classAttrib](classAttributesMethods.md)
-* [classRel](classRelationships.md)
+* [OOPAct II](classAttributesMethods.md)
+* [OOPAct III](classRelationships.md)
 
 ## Existing System Description
 The system models culinary recipes, detailed ingredient tracking, nutritional breakdown analysis, and kitchen preparation workflows.
