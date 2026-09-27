@@ -22,4 +22,4 @@
 * [OOPAct](./q1/classObjectUML.md)
 * [OOPAct II](./q1/classAttributesMethods.md)
 * [OOPAct III](./q1/classRelationships.md)
-* [OOPAct IV](./q1/advanceRelationships.md)
+* [OOPAct IV](./q1/advancedRelationships.md)
