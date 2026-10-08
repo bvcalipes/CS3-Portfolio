@@ -9,15 +9,21 @@ class BankAccount:
 
     def set_balance(self, balance: float):
         self.__balance = balance
-        self.set_balance(balance)
+        if balance < 0:
+            return "The balance must not be a negative number."
         
     def get_account_number(self):
-        return self.__account_number
+        return f"Account Number: {self.account_number}"
 
     def get_balance(self):
-        return self.__balance
-    
-a1 = BankAccount(123456, 1000.00) #Object for the bank account
+        return f"Balance: {self.balance:.2f}"
+
+a1 = BankAccount (123456, 1000.00) #Object for the bank account
 print("Account 1")
-print("Account Number:", a1.get_account_number())
+print(a1.get_account_number())
+print("Balance:", a1.get_balance())
+print()
+print("\nUpdate balance to -100")
+print(a1.set_balance(-100))
+print(a1.get_account_number())
 print("Balance:", a1.get_balance())
