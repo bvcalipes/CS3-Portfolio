@@ -19,3 +19,9 @@
 * [Computational Thinking Skills Exercise](./q1/ctskillsPlatinumCALIPES.md)
 * [Chinese Zodiac Signs Exercise](./q1/zodiacPlatinumCALIPES.md)
 * [Object-Oriented Programming](./q1/ila_oop.md)
+* [OOPAct](./q1/classObjectUML.md)
+* [OOPAct II](./q1/classAttributesMethods.md)
+* [OOPAct III](./q1/classRelationships.md)
+* [OOPAct IV](./q1/advancedRelationships.md)
+
+## Quarter 2
