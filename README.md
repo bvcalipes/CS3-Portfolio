@@ -25,3 +25,4 @@
 * [OOPAct IV](./q1/advancedRelationships.md)
 
 ## Quarter 2
+* [Activity 3](./q2/sg8_encapsulation.py)
