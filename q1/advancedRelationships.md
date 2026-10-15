@@ -2,12 +2,13 @@
 **Name:** Bashaier Calipes
 
 **Section:** Platinum
+
 ## Previous Activities
 * [classAttrib](classAttributesMethods.md)
 * [classRel](classRelationships.md)
 
 ## Existing System Description
-The system models culinary recipes, detailed ingredient tracking, nutritional breakdown analysis, and kitchen preparation workflows.
+The system models culinary recipes, detailed ingredient tracking, nutritional breakdown analysis, and kitchen preparation workflows. 
 
 ## Inheritance Relationship
 * **Parent Class**: `Recipe`
