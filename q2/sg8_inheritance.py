@@ -22,7 +22,7 @@ class Publication: #creating parent class
         print(f"Title: {self.__title}")
         print (f"Author: {self.__author}")
 
-class Book(Publication):
+class Book(Publication): #creating child class called Book that inherits from Publication
     
     def __init__(self, title: str, author: str, number_of_pages: int):
         super().__init__(title, author)
@@ -43,7 +43,7 @@ class Book(Publication):
         print(f"Number of Pages: {self.__number_of_pages}")
 
 
-class Magazine(Publication):
+class Magazine(Publication): #creating child class called Magazine that inherits from Publication
     
     def __init__(self, title: str, author: str, issue_number: int):
         super().__init__(title, author)
