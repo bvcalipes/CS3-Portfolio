@@ -1,6 +1,6 @@
-class Publication:
+class Publication: #creating parent class
     
-    def __init__(self, title: str, author: str):
+    def __init__(self, title: str, author: str): 
         self.__title = title
         self.__author = author
     
@@ -18,7 +18,7 @@ class Publication:
     def get_author(self):
         return f"Author: {self.author}"
     
-    def display_info(self):
+    def display_info(self): #display information about the publication
         print(f"Title: {self.__title}")
         print (f"Author: {self.__author}")
 
@@ -38,7 +38,7 @@ class Book(Publication):
         else:
             print("Number of pages must be a positive number.")
     
-    def display_info(self):
+    def display_info(self): #display information about the book
         super().display_info()
         print(f"Number of Pages: {self.__number_of_pages}")
 
@@ -56,7 +56,7 @@ class Magazine(Publication):
         self.__issue_number = issue_number
         self.set_issue_number(issue_number)
     
-    def display_info(self):
+    def display_info(self): #display information about the magazine
         super().display_info()
         print(f"Issue Number: {self.__issue_number}")
     
