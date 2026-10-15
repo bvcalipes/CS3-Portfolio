@@ -25,4 +25,5 @@
 * [OOPAct IV](./q1/advancedRelationships.md)
 
 ## Quarter 2
-* [Activity 3](./q2/sg8_encapsulation.py)
+* [Encapsulation - Activity 3](./q2/sg8_encapsulation.py)
+* [Inheritance - Formative Assessment 1](./q2/sg8_inheritance.py)
