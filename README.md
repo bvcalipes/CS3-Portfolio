@@ -24,3 +24,8 @@
 * [OOPAct](./q1/classObjectUML.md)
 * [OOPAct II](./q1/classAttributesMethods.md)
 * [OOPAct III](./q1/classRelationships.md)
+* [OOPAct IV](./q1/advancedRelationships.md)
+
+## Quarter 2
+* [Encapsulation - Activity 3](./q2/sg8_encapsulation.py)
+* [Inheritance - Formative Assessment 1](./q2/sg8_inheritance.py)

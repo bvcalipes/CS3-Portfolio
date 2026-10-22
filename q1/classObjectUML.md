@@ -1,4 +1,48 @@
 # SG4 - Understanding Classes and Objects
+<<<<<<< HEAD
+
+**Name:** Bashaier V. Calipes
+
+**Section:** Platinum
+
+**Date:**September 3, 2026
+
+## Cake
+### Class Description
+
+### Properties
+| Property | Data Type | Description |
+|---|---|---|
+| | | |
+| | | |
+| | | |
+| | | |
+
+### Methods
+| Method | Description |
+|---|---|
+| | |
+| | |
+| | |
+
+### Class Diagram
+![Class Diagram](images/classDiagram.png)
+
+### Design Explanation
+
+#### Why did you choose this class?
+I chose this class becuase I love baking and cake is my specialty. It also has a lot of properties that can make my coding easier eme eme ganun.
+#### Which property is the most important? Why?
+
+#### Which method is the most useful? Why?
+Data Field:
+    Flavor: Pistachio 
+    Color: Sage Green
+    Size: Medium+
+Methods:
+    decorate()
+    display()
+=======
 **Name:** Bashaier V. Calipes
 **Section:** Platinum
 **Activity:** OOPAct
@@ -32,3 +76,4 @@ I chose Recipe because cooking and baking are my primary hobbies. Designing a cl
 recipeName is the most important property because it acts as the primary identifier for the object, allowing users and the computer system to distinguish one recipe from another.
 ### Which method is the most useful? Why?
 adjustServings(newServings: int) is the most useful method because bakers and cooks frequently need to scale recipe quantities up or down depending on how many people they are feeding.
+>>>>>>> f51793614cb6945526d9684089073e40220f30c4
