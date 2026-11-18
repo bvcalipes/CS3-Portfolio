@@ -29,5 +29,6 @@
 ## Quarter 2
 * [Encapsulation - Activity 3](./q2/sg8_encapsulation.py)
 * [Inheritance - Formative Assessment 1](./q2/sg8_inheritance.py)
+* [Method Overriding - Activity 2](./hospital_billing.py)
 * [Polymorphism - Activity 1](./q2/sg11_polymorphism1.py)
 * [Polymorphism - Activity 2](./q2/sg11_polymorphism2.py)
