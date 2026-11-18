@@ -17,16 +17,23 @@ class Patient:
 
     def calculate_bill(self):
         return self.__bill_amount
+        
+    def display_patient_type(self):
+        print ("Patient Type: Regular Patient")
 
 
 class SeniorPatient(Patient):
     def calculate_bill(self):
         return self.get_bill_amount() * 0.80  # 20% discount
+    def display_patient_type(self):
+        print ("Patient Type: Senior Citizen")
 
 
 class PhilHealthPatient(Patient):
     def calculate_bill(self):
         return self.get_bill_amount() * 0.85  # 15% discount
+    def display_patient_type(self):
+        print ("Patient Type: PhilHealth Member")
 
 
 # Instantiate one object per class
@@ -41,5 +48,6 @@ print("Hospital Billing System")
 print("--------------------------------")
 for patient in patients:
     print(f"Patient Name: {patient.get_name()}")
+    print(f"Patient Type: {patient.display_patient_type()}")
     print(f"Original Bill: ₱{patient.get_bill_amount():,.2f}")
     print(f"Final Bill: ₱{patient.calculate_bill():,.2f}\n")
